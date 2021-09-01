@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'helu con gey',
+    introDesc: `Trái đất vốn dĩ lạ thường
+    Mà sao em lại trở thành con gay.
+    Chẳng may em lại dễ thương
+    có phải tôi đã yêu em rồi không?`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    title: 'M có cu không',
+    desc: 'hay là cú có gai ',
+    btnYes: 'Đr,t có Cu :))',
+    btnNo: 'Không, m bị điên ag con mẹ mày thk lụy nứng cặc ',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại là gay ;-;',
+    btnReply: 'chấp nhận đi <3',
+    reply: 'gay thì gay không gay thì gay',
+    mess: 'Anh biết mà 🥰.m là cú có gai chính hiệu  😘😘',
+    messDesc: 'tối nay đưng ngủ nhe t có cái này bât ngờ dành cho m thôi ó :33 .',
+    btnAccept: 'oke <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
